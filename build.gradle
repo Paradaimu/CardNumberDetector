@@ -1,0 +1,128 @@
+apply plugin: 'cpp'
+
+model {
+	repositories {
+           libs(PrebuiltLibraries) {
+            opencv_core {
+                headers.srcDir "libs/opencv/lib/libinclude/"
+                binaries.withType(SharedLibraryBinary) {
+                    sharedLibraryFile = file("libs/opencv/lib/libopencv_core.so" )
+                    
+                }
+            }
+            opencv_imgproc {
+                headers.srcDir "libs/opencv/lib/libinclude/opencv2/"
+                binaries.withType(SharedLibraryBinary) {
+                    sharedLibraryFile = file("libs/opencv/lib/libopencv_imgproc.so" )
+                    
+                }
+            }
+            opencv_calib3d {
+                headers.srcDir "libs/opencv/lib/libinclude/opencv2/"
+                binaries.withType(SharedLibraryBinary) {
+                    sharedLibraryFile = file("libs/opencv/lib/libopencv_calib3d.so" )
+                    
+                }
+            }
+            opencv_video {
+                headers.srcDir "libs/opencv/lib/libinclude/opencv2/"
+                binaries.withType(SharedLibraryBinary) {
+                    sharedLibraryFile = file("libs/opencv/lib/libopencv_video.so" )
+                    
+                }
+            }
+            opencv_features2d {
+                headers.srcDir "libs/opencv/lib/libinclude/opencv2/"
+                binaries.withType(SharedLibraryBinary) {
+                    sharedLibraryFile = file("libs/opencv/lib/libopencv_features2d.so" )
+                    
+                }
+            }
+            opencv_ml {
+                headers.srcDir "libs/opencv/lib/libinclude/opencv2/"
+                binaries.withType(SharedLibraryBinary) {
+                    sharedLibraryFile = file("libs/opencv/lib/libopencv_ml.so" )
+                    
+                }
+            }
+            opencv_highgui {
+                headers.srcDir "libs/opencv/lib/libinclude/opencv2/"
+                binaries.withType(SharedLibraryBinary) {
+                    sharedLibraryFile = file("libs/opencv/lib/libopencv_highgui.so" )
+                    
+                }
+            }
+            opencv_objdetect {
+                headers.srcDir "libs/opencv/lib/libinclude/opencv2/"
+                binaries.withType(SharedLibraryBinary) {
+                    sharedLibraryFile = file("libs/opencv/lib/libopencv_objdetect.so" )
+                    
+                }
+            }
+            opencv_text {
+                headers.srcDir "libs/opencv/lib/libinclude/opencv2/"
+                binaries.withType(SharedLibraryBinary) {
+                    sharedLibraryFile = file("libs/opencv/lib/libopencv_text.so" )
+                    
+                }
+            }
+
+            opencv_imgcodecs {
+                headers.srcDir "libs/opencv/lib/libinclude/opencv2/"
+                binaries.withType(SharedLibraryBinary) {
+                    sharedLibraryFile = file("libs/opencv/lib/libopencv_imgcodecs.so" )
+                    
+                }
+            }
+        }
+    }
+       
+        
+}
+
+model {
+    components {
+    	cardNumberDetection(NativeExecutableSpec) {
+    		sources {
+                cpp {
+                    source {
+                        srcDirs "src/cpp"
+                        include "main.cpp"
+
+                        lib library: 'opencv_core', linkage: 'shared'
+                        lib library: 'opencv_imgproc', linkage: 'shared'
+                        lib library: 'opencv_calib3d', linkage: 'shared'
+                        lib library: 'opencv_video', linkage: 'shared'
+                        lib library: 'opencv_features2d', linkage: 'shared'
+                        lib library: 'opencv_ml', linkage: 'shared'
+                        lib library: 'opencv_highgui', linkage: 'shared'
+                        lib library: 'opencv_objdetect', linkage: 'shared'
+                        lib library: 'opencv_text', linkage: 'shared'
+                        lib library: 'opencv_imgcodecs', linkage: 'shared'
+                    }
+
+                }
+            }
+            binaries {
+		        all {
+		            cppCompiler.args "-O2"
+		        }
+		    }
+    	}
+    }
+
+    tasks {
+    	cardNumberDetection(Task) {
+            def depends = $.binaries.findAll { it.component.baseName in name }
+
+            dependsOn depends
+
+            doLast {
+                exec {
+                    executable depends.get(0).executableFile
+                }
+            }
+        }
+    }
+}
+

@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="CardNumberDetector" targetName="CardNumberDetector" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33f7932b-fa9b-43f0-99c9-e3816d040e80" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CardNumberDetector" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cpp/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bmf.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/opencv/include/leptonica/bmf.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utility.hpp" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/include/opencv2/core/utility.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/opencv/include/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stl_vector.h" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12690">
+              <caret line="930" column="6" selection-start-line="930" selection-start-column="6" selection-end-line="930" selection-end-column="6" />
+              <folding>
+                <marker date="1470674972000" expanded="false" signature="2521:2548" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="3356:3487" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="4531:5054" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="8507:8564" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="8841:9793" ph="..." />
+                <marker date="1470674972000" expanded="true" signature="9806:10130" ph="/**...*/" />
+                <marker date="1470674972000" expanded="false" signature="11049:12785" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="13512:13803" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="13816:13849" ph="&lt;_InputIterator&gt;" />
+                <marker date="1470674972000" expanded="true" signature="13988:14195" ph="{...}" />
+                <marker date="1470674972000" expanded="false" signature="15037:16299" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="17389:17621" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="17634:17667" ph="&lt;_InputIterator&gt;" />
+                <marker date="1470674972000" expanded="true" signature="17751:17954" ph="{...}" />
+                <marker date="1470674972000" expanded="false" signature="17996:18542" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="21052:22248" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="22703:24139" ph="..." />
+                <marker date="1470674972000" expanded="true" signature="24152:24691" ph="/**...*/" />
+                <marker date="1470674972000" expanded="true" signature="24775:24942" ph="{...}" />
+                <marker date="1470674972000" expanded="false" signature="24984:25109" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="30410:30414" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="30561:30571" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="31461:31486" ph="..." />
+                <marker date="1470674972000" expanded="true" signature="31572:31739" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="32246:33557" ph="..." />
+                <marker date="1470674972000" expanded="true" signature="33570:34100" ph="/**...*/" />
+                <marker date="1470674972000" expanded="false" signature="34215:35577" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="35619:36500" ph="..." />
+                <marker date="1470674972000" expanded="true" signature="36513:37089" ph="/**...*/" />
+                <marker date="1470674972000" expanded="false" signature="37262:38290" ph="..." />
+                <marker date="1470674972000" expanded="true" signature="38303:38868" ph="/**...*/" />
+                <marker date="1470674972000" expanded="false" signature="38875:38908" ph="&lt;_InputIterator&gt;" />
+                <marker date="1470674972000" expanded="true" signature="39021:39236" ph="{...}" />
+                <marker date="1470674972000" expanded="false" signature="40031:40125" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="41181:41382" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="41974:42016" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="44482:44505" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="45461:45694" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="48581:48693" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="48847:49046" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="49844:50929" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="50971:51220" ph="..." />
+                <marker date="1470674972000" expanded="false" signature="51233:51256" ph="&lt;_Ptr&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img_threshold</find>
+      <find>large</find>
+      <find>rgb</find>
+      <find>main</find>
+      <find>ERClassifierNM1</find>
+      <find>er_filter1</find>
+      <find>INPUT_FILE</find>
+      <find>INPUT_FILE1</find>
+      <find>INPUT_FILE3</find>
+      <find>regions</find>
+      <find>19</find>
+      <find>out_img_detection</find>
+      <find>numb</find>
+      <find>nm_boxes</find>
+      <find>3</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>large</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/trained1.xml" />
+        <option value="$PROJECT_DIR$/src/trained2.xml" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/cpp/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1922" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardNumberDetector" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardNumberDetector" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardNumberDetector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardNumberDetector" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardNumberDetector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainingBots" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardNumberDetector" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardNumberDetector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardNumberDetector" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardNumberDetector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardNumberDetector" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CardNumberDetector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs/opencv/include" />
+      <recent name="$PROJECT_DIR$/libs/opencv/lib" />
+      <recent name="$PROJECT_DIR$/libs/opencv" />
+      <recent name="$PROJECT_DIR$/libs/opencv/include/opencv2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CardNumberDetector">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CardNumberDetector" TARGET_NAME="CardNumberDetector" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CardNumberDetector" TARGET_NAME="CardNumberDetector" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CardNumberDetector" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CardNumberDetector" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CardNumberDetector" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CardNumberDetector" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CardNumberDetector" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CardNumberDetector" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CardNumberDetector" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CardNumberDetector" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CardNumberDetector" TARGET_NAME="CardNumberDetector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CardNumberDetector" RUN_TARGET_NAME="CardNumberDetector">
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CardNumberDetector" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f7932b-fa9b-43f0-99c9-e3816d040e80" name="Default" comment="" />
+      <created>1483202002280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1483202002280</updated>
+      <workItem from="1483202003956" duration="27370000" />
+      <workItem from="1483343499266" duration="13748000" />
+      <workItem from="1483468704766" duration="1432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42550000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1047" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24828677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2880259" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/opencv/include/opencv2/text/erfilter.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="150" column="17" selection-start-line="150" selection-start-column="17" selection-end-line="150" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12690">
+          <caret line="930" column="6" selection-start-line="930" selection-start-column="6" selection-end-line="930" selection-end-column="6" />
+          <folding>
+            <marker date="1470674972000" expanded="false" signature="2521:2548" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="3356:3487" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="4531:5054" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="8507:8564" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="8841:9793" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="9806:10130" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="11049:12785" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="13512:13803" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="13816:13849" ph="&lt;_InputIterator&gt;" />
+            <marker date="1470674972000" expanded="true" signature="13988:14195" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="15037:16299" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="17389:17621" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="17634:17667" ph="&lt;_InputIterator&gt;" />
+            <marker date="1470674972000" expanded="true" signature="17751:17954" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="17996:18542" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="21052:22248" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="22703:24139" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="24152:24691" ph="/**...*/" />
+            <marker date="1470674972000" expanded="true" signature="24775:24942" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="24984:25109" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="30410:30414" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="30561:30571" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="31461:31486" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="31572:31739" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="32246:33557" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="33570:34100" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="34215:35577" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="35619:36500" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="36513:37089" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="37262:38290" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="38303:38868" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="38875:38908" ph="&lt;_InputIterator&gt;" />
+            <marker date="1470674972000" expanded="true" signature="39021:39236" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="40031:40125" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="41181:41382" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="41974:42016" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="44482:44505" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="45461:45694" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="48581:48693" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="48847:49046" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="49844:50929" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="50971:51220" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="51233:51256" ph="&lt;_Ptr&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/opencv/include/opencv2/text/ocr.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/types.hpp" />
+    <entry file="file:///usr/local/include/opencv2/core.hpp" />
+    <entry file="file:///usr/local/include/opencv2/imgproc.hpp" />
+    <entry file="file:///usr/local/include/opencv2/core/cvdef.h" />
+    <entry file="file://$PROJECT_DIR$/libs/opencv/include/opencv2/text/erfilter.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="150" column="17" selection-start-line="150" selection-start-column="17" selection-end-line="150" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/base.hpp" />
+    <entry file="file://$PROJECT_DIR$/src/trained2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27180">
+          <caret line="1510" column="65" selection-start-line="1510" selection-start-column="65" selection-end-line="1510" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16740">
+          <caret line="930" column="6" selection-start-line="930" selection-start-column="6" selection-end-line="930" selection-end-column="6" />
+          <folding>
+            <marker date="1470674972000" expanded="false" signature="2521:2548" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="3356:3487" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="4531:5054" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="8507:8564" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="8841:9793" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="9806:10130" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="11049:12785" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="13512:13803" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="13816:13849" ph="&lt;_InputIterator&gt;" />
+            <marker date="1470674972000" expanded="true" signature="13988:14195" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="15037:16299" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="17389:17621" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="17634:17667" ph="&lt;_InputIterator&gt;" />
+            <marker date="1470674972000" expanded="true" signature="17751:17954" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="17996:18542" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="21052:22248" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="22703:24139" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="24152:24691" ph="/**...*/" />
+            <marker date="1470674972000" expanded="true" signature="24775:24942" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="24984:25109" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="30410:30414" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="30561:30571" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="31461:31486" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="31572:31739" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="32246:33557" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="33570:34100" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="34215:35577" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="35619:36500" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="36513:37089" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="37262:38290" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="38303:38868" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="38875:38908" ph="&lt;_InputIterator&gt;" />
+            <marker date="1470674972000" expanded="true" signature="39021:39236" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="40031:40125" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="41181:41382" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="41974:42016" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="44482:44505" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="45461:45694" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="48581:48693" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="48847:49046" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="49844:50929" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="50971:51220" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="51233:51256" ph="&lt;_Ptr&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/opencv/include/opencv2/text/ocr.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="167" selection-start-line="19" selection-start-column="167" selection-end-line="19" selection-end-column="167" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/opencv/include/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trained1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27288">
+          <caret line="1516" column="23" selection-start-line="1516" selection-start-column="23" selection-end-line="1516" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trained2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27180">
+          <caret line="1510" column="65" selection-start-line="1510" selection-start-column="65" selection-end-line="1510" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14022">
+          <caret line="779" column="0" selection-start-line="779" selection-start-column="0" selection-end-line="779" selection-end-column="0" />
+          <folding>
+            <marker date="1470674972000" expanded="false" signature="2521:2548" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="3356:3487" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="4531:5054" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="8507:8564" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="8841:9793" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="9806:10130" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="11049:12785" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="13512:13803" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="13816:13849" ph="&lt;_InputIterator&gt;" />
+            <marker date="1470674972000" expanded="true" signature="13988:14195" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="15037:16299" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="17389:17621" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="17634:17667" ph="&lt;_InputIterator&gt;" />
+            <marker date="1470674972000" expanded="true" signature="17751:17954" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="17996:18542" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="21052:22248" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="22703:24139" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="24152:24691" ph="/**...*/" />
+            <marker date="1470674972000" expanded="true" signature="24775:24942" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="24984:25109" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="30410:30414" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="30561:30571" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="31461:31486" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="31572:31739" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="32246:33557" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="33570:34100" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="34215:35577" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="35619:36500" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="36513:37089" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="37262:38290" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="38303:38868" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="38875:38908" ph="&lt;_InputIterator&gt;" />
+            <marker date="1470674972000" expanded="true" signature="39021:39236" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="40031:40125" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="41181:41382" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="41974:42016" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="44482:44505" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="45461:45694" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="48581:48693" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="48847:49046" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="49844:50929" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="50971:51220" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="51233:51256" ph="&lt;_Ptr&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/opencv_contrib-master/modules/text/src/erfilter.cpp" />
+    <entry file="file:///usr/local/include/opencv2/highgui.hpp" />
+    <entry file="file://$PROJECT_DIR$/libs/opencv/include/opencv2/text/ocr.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/imgproc/types_c.h" />
+    <entry file="file://$PROJECT_DIR$/libs/opencv/include/opencv/cv.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/opencv/include/opencv2/opencv.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/hal/interface.h" />
+    <entry file="file:///usr/local/include/opencv2/imgproc/types_c.h" />
+    <entry file="file:///usr/local/include/opencv2/highgui.hpp" />
+    <entry file="file://$USER_HOME$/Downloads/opencv_contrib-master/modules/text/src/erfilter.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/trained1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27288">
+          <caret line="1516" column="23" selection-start-line="1516" selection-start-column="23" selection-end-line="1516" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trained2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27180">
+          <caret line="1510" column="65" selection-start-line="1510" selection-start-column="65" selection-end-line="1510" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/opencv/include/opencv2/text/ocr.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/opencv/include/opencv2/text/erfilter.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="150" column="17" selection-start-line="150" selection-start-column="17" selection-end-line="150" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12690">
+          <caret line="930" column="6" selection-start-line="930" selection-start-column="6" selection-end-line="930" selection-end-column="6" />
+          <folding>
+            <marker date="1470674972000" expanded="false" signature="2521:2548" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="3356:3487" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="4531:5054" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="8507:8564" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="8841:9793" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="9806:10130" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="11049:12785" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="13512:13803" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="13816:13849" ph="&lt;_InputIterator&gt;" />
+            <marker date="1470674972000" expanded="true" signature="13988:14195" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="15037:16299" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="17389:17621" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="17634:17667" ph="&lt;_InputIterator&gt;" />
+            <marker date="1470674972000" expanded="true" signature="17751:17954" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="17996:18542" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="21052:22248" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="22703:24139" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="24152:24691" ph="/**...*/" />
+            <marker date="1470674972000" expanded="true" signature="24775:24942" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="24984:25109" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="30410:30414" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="30561:30571" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="31461:31486" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="31572:31739" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="32246:33557" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="33570:34100" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="34215:35577" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="35619:36500" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="36513:37089" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="37262:38290" ph="..." />
+            <marker date="1470674972000" expanded="true" signature="38303:38868" ph="/**...*/" />
+            <marker date="1470674972000" expanded="false" signature="38875:38908" ph="&lt;_InputIterator&gt;" />
+            <marker date="1470674972000" expanded="true" signature="39021:39236" ph="{...}" />
+            <marker date="1470674972000" expanded="false" signature="40031:40125" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="41181:41382" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="41974:42016" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="44482:44505" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="45461:45694" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="48581:48693" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="48847:49046" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="49844:50929" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="50971:51220" ph="..." />
+            <marker date="1470674972000" expanded="false" signature="51233:51256" ph="&lt;_Ptr&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core.hpp" />
+    <entry file="file:///usr/local/include/opencv2/core/base.hpp" />
+    <entry file="file:///usr/local/include/opencv2/core/cvdef.h" />
+    <entry file="file:///usr/local/include/opencv2/imgproc.hpp" />
+    <entry file="file:///usr/local/include/opencv2/core/types.hpp" />
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/utility.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/opencv/include/leptonica/bmf.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/opencv/include/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cpp/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
